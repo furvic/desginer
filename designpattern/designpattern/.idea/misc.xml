@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/msb-singleton-pattern-01/pom.xml" />
+        <option value="$PROJECT_DIR$/msb-factory-pattern-02/pom.xml" />
+        <option value="$PROJECT_DIR$/msb-builder-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/msb-prototype-pattern-04/pom.xml" />
+        <option value="$PROJECT_DIR$/msb-proxy-pattern-05/pom.xml" />
+        <option value="$PROJECT_DIR$/msb-bridge-pattern-06/pom.xml" />
+        <option value="$PROJECT_DIR$/msb-decorator-pattern-07/pom.xml" />
+        <option value="$PROJECT_DIR$/msb-adapter-pattern-08/pom.xml" />
+        <option value="$PROJECT_DIR$/msb-facade-pattern-09/pom.xml" />
+        <option value="$PROJECT_DIR$/msb-composite-pattern-10/pom.xml" />
+        <option value="$PROJECT_DIR$/msb-flyweight-pattern-11/pom.xml" />
+        <option value="$PROJECT_DIR$/msb-observer-pattern-12/pom.xml" />
+        <option value="$PROJECT_DIR$/msb-templatemethod-pattern-13/pom.xml" />
+        <option value="$PROJECT_DIR$/msb-strategy-pattern-14/pom.xml" />
+        <option value="$PROJECT_DIR$/msb-chain of responsibility-pattern-15/pom.xml" />
+        <option value="$PROJECT_DIR$/msb-state-pattern-16/pom.xml" />
+        <option value="$PROJECT_DIR$/msb-Iterator-pattern-17/pom.xml" />
+        <option value="$PROJECT_DIR$/msb-visitor-pattern-18/pom.xml" />
+        <option value="$PROJECT_DIR$/msb-memento-pattern-19/pom.xml" />
+        <option value="$PROJECT_DIR$/msb-command-pattern-20/pom.xml" />
+        <option value="$PROJECT_DIR$/msb-interpreter-pattern-21/pom.xml" />
+        <option value="$PROJECT_DIR$/msb-mediator-pattern-22/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

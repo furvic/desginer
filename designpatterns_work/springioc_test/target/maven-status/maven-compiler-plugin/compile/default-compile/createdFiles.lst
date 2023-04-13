@@ -1,0 +1,5 @@
+com\mashibing\controller\CourseController.class
+com\mashibing\dao\impl\CourseDaoImpl.class
+com\mashibing\dao\CourseDao.class
+com\mashibing\service\CourseService.class
+com\mashibing\service\impl\CourseServiceImpl.class

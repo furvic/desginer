@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/msb-Iterator-pattern-17/msb-Iterator-pattern-17.iml" filepath="$PROJECT_DIR$/msb-Iterator-pattern-17/msb-Iterator-pattern-17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msb-adapter-pattern-08/msb-adapter-pattern-08.iml" filepath="$PROJECT_DIR$/msb-adapter-pattern-08/msb-adapter-pattern-08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msb-bridge-pattern-06/msb-bridge-pattern-06.iml" filepath="$PROJECT_DIR$/msb-bridge-pattern-06/msb-bridge-pattern-06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msb-builder-pattern-03/msb-builder-pattern-03.iml" filepath="$PROJECT_DIR$/msb-builder-pattern-03/msb-builder-pattern-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msb-chain of responsibility-pattern-15/msb-chain of responsibility-pattern-15.iml" filepath="$PROJECT_DIR$/msb-chain of responsibility-pattern-15/msb-chain of responsibility-pattern-15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msb-command-pattern-20/msb-command-pattern-20.iml" filepath="$PROJECT_DIR$/msb-command-pattern-20/msb-command-pattern-20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msb-composite-pattern-10/msb-composite-pattern-10.iml" filepath="$PROJECT_DIR$/msb-composite-pattern-10/msb-composite-pattern-10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msb-decorator-pattern-07/msb-decorator-pattern-07.iml" filepath="$PROJECT_DIR$/msb-decorator-pattern-07/msb-decorator-pattern-07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msb-facade-pattern-09/msb-facade-pattern-09.iml" filepath="$PROJECT_DIR$/msb-facade-pattern-09/msb-facade-pattern-09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msb-factory-pattern-02/msb-factory-pattern-02.iml" filepath="$PROJECT_DIR$/msb-factory-pattern-02/msb-factory-pattern-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msb-flyweight-pattern-11/msb-flyweight-pattern-11.iml" filepath="$PROJECT_DIR$/msb-flyweight-pattern-11/msb-flyweight-pattern-11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msb-interpreter-pattern-21/msb-interpreter-pattern-21.iml" filepath="$PROJECT_DIR$/msb-interpreter-pattern-21/msb-interpreter-pattern-21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msb-mediator-pattern-22/msb-mediator-pattern-22.iml" filepath="$PROJECT_DIR$/msb-mediator-pattern-22/msb-mediator-pattern-22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msb-memento-pattern-19/msb-memento-pattern-19.iml" filepath="$PROJECT_DIR$/msb-memento-pattern-19/msb-memento-pattern-19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msb-observer-pattern-12/msb-observer-pattern-12.iml" filepath="$PROJECT_DIR$/msb-observer-pattern-12/msb-observer-pattern-12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msb-prototype-pattern-04/msb-prototype-pattern-04.iml" filepath="$PROJECT_DIR$/msb-prototype-pattern-04/msb-prototype-pattern-04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msb-proxy-pattern-05/msb-proxy-pattern-05.iml" filepath="$PROJECT_DIR$/msb-proxy-pattern-05/msb-proxy-pattern-05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msb-singleton-pattern-01/msb-singleton-pattern-01.iml" filepath="$PROJECT_DIR$/msb-singleton-pattern-01/msb-singleton-pattern-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msb-state-pattern-16/msb-state-pattern-16.iml" filepath="$PROJECT_DIR$/msb-state-pattern-16/msb-state-pattern-16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msb-strategy-pattern-14/msb-strategy-pattern-14.iml" filepath="$PROJECT_DIR$/msb-strategy-pattern-14/msb-strategy-pattern-14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msb-templatemethod-pattern-13/msb-templatemethod-pattern-13.iml" filepath="$PROJECT_DIR$/msb-templatemethod-pattern-13/msb-templatemethod-pattern-13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msb-visitor-pattern-18/msb-visitor-pattern-18.iml" filepath="$PROJECT_DIR$/msb-visitor-pattern-18/msb-visitor-pattern-18.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="msb-builder-pattern-03" />
+        <module name="msb-facade-pattern-09" />
+        <module name="msb-flyweight-pattern-11" />
+        <module name="msb-visitor-pattern-18" />
+        <module name="msb-templatemethod-pattern-13" />
+        <module name="msb-Iterator-pattern-17" />
+        <module name="msb-chain of responsibility-pattern-15" />
+        <module name="msb-state-pattern-16" />
+        <module name="msb-bridge-pattern-06" />
+        <module name="msb-adapter-pattern-08" />
+        <module name="msb-command-pattern-20" />
+        <module name="msb-memento-pattern-19" />
+        <module name="msb-mediator-pattern-22" />
+        <module name="msb-observer-pattern-12" />
+        <module name="msb-strategy-pattern-14" />
+        <module name="msb-interpreter-pattern-21" />
+        <module name="msb-prototype-pattern-04" />
+        <module name="msb-proxy-pattern-05" />
+        <module name="msb-factory-pattern-02" />
+        <module name="msb-decorator-pattern-07" />
+        <module name="msb-singleton-pattern-01" />
+        <module name="msb-composite-pattern-10" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="msb-adapter-pattern-08" target="8" />
+      <module name="msb-bridge-pattern-06" target="8" />
+      <module name="msb-builder-pattern-03" target="8" />
+      <module name="msb-chain of responsibility-pattern-15" target="8" />
+      <module name="msb-command-pattern-20" target="8" />
+      <module name="msb-composite-pattern-10" target="8" />
+      <module name="msb-decorator-pattern-07" target="8" />
+      <module name="msb-facade-pattern-09" target="8" />
+      <module name="msb-factory-pattern-02" target="8" />
+      <module name="msb-flyweight-pattern-11" target="8" />
+      <module name="msb-interpreter-pattern-21" target="8" />
+      <module name="msb-Iterator-pattern-17" target="8" />
+      <module name="msb-mediator-pattern-22" target="8" />
+      <module name="msb-memento-pattern-19" target="8" />
+      <module name="msb-observer-pattern-12" target="8" />
+      <module name="msb-prototype-pattern-04" target="8" />
+      <module name="msb-proxy-pattern-05" target="8" />
+      <module name="msb-singleton-pattern-01" target="8" />
+      <module name="msb-state-pattern-16" target="8" />
+      <module name="msb-strategy-pattern-14" target="8" />
+      <module name="msb-templatemethod-pattern-13" target="8" />
+      <module name="msb-visitor-pattern-18" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
